@@ -1,0 +1,39 @@
+.cal{
+  background-color:black;
+  height:310px;
+  width:500px;
+  align-items: center;
+  padding-top: 50px;
+  border-radius: 5px;
+  border-color:solid pink;
+  margin-left: 35%;
+  margin-top: 8%;
+}
+h1{
+  color: pink;
+}
+.button{
+  margin-top: 50px;
+  margin-right: 27px;
+  width:47px;
+  background-color: pink;
+   
+}
+.button1{
+  margin-top: 50px;
+  margin-right: 27px;
+  margin-left: 24px;
+  width:47px;
+  background-color: pink;
+   
+}
+.input{
+  margin-top: 60px;
+}
+.inputtag{
+  width:250px;
+  height:23px;
+  border:none;
+  margin-top: 12px;
+
+}
